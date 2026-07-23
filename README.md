@@ -6,17 +6,26 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (1)
 - [games](#games) (1)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (3)
+- [math](#math) (3)
 - [schedules](#schedules) (1)
+- [strings](#strings) (1)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
 
 ### games
 
@@ -28,13 +37,29 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2233A | [AI Project Development](https://codeforces.com/contest/2233/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2233/A%20-%20AI%20Project%20Development/solution.cpp) |
+| 2236A | [Games on the Train](https://codeforces.com/contest/2236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2236/A%20-%20Games%20on%20the%20Train/solution.cpp) |
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 
 ### schedules
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2237A | [Destroying Towers](https://codeforces.com/contest/2237/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2237/A%20-%20Destroying%20Towers/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 
 ---
 
