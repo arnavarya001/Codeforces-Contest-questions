@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 6 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [brute force](#brute-force) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (3)
@@ -20,6 +21,12 @@
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 
 ### brute force
 
