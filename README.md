@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 7 |
+| 8 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (3)
+- [Uncategorized](#uncategorized) (4)
 - [brute force](#brute-force) (1)
 - [games](#games) (1)
 - [greedy](#greedy) (3)
@@ -29,6 +29,7 @@
 | 2254A | [Riptide](https://codeforces.com/contest/2254/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2254/A%20-%20Riptide/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/arnavarya001/Codeforces-Contest-questions/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 
 ### brute force
 
